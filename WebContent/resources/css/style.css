@@ -1,0 +1,157 @@
+			
+			
+			.numarakontrol{clear: left;
+			float: left;
+			left: 50%;
+			margin-left: -520px;
+			max-width: 495px;
+			position: relative;
+			top: 298px;
+			width: 50%;
+			z-index: 4;
+			
+			
+			}
+
+
+			.ButtonStyle{
+			  -webkit-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+				-moz-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+				box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+				color:#333;
+				background-color:#7cceee;
+				border-radius:5px;
+				-moz-border-radius:5px;
+				-webkit-border-radius:5px;
+				border:none;
+				font-family:'Helvetica Neue',Arial,sans-serif;
+				font-size:16px;
+				font-weight:700;
+				height:32px;
+				padding:4px 16px;
+				text-shadow:#FE6 0 1px 0;
+			    margin-right: 40px; 
+			    margin-left:40px;
+			}
+			.login{
+			  -webkit-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+				-moz-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+				box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+				color:#333;
+				background-color:#7cceee;
+				border-radius:5px;
+				-moz-border-radius:5px;
+				-webkit-border-radius:5px;
+				border:none;
+				font-family:'Helvetica Neue',Arial,sans-serif;
+				font-size:16px;
+				font-weight:700;
+				height:32px;
+				padding:4px 16px;
+				text-shadow:#FE6 0 1px 0;
+			    
+			}
+			.ButtonStyle1{
+			   -webkit-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+				-moz-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+				box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+				color:#333;
+				background-color:#7cceee;
+				border-radius:5px;
+				-moz-border-radius:5px;
+				-webkit-border-radius:5px;
+				border:none;
+				font-family:'Helvetica Neue',Arial,sans-serif;
+				font-size:16px;
+				font-weight:700;
+				height:32px;
+				padding:4px 16px;
+				text-shadow:#FE6 0 1px 0;
+			    margin-right: 40px; 
+			    margin-left:130px;
+			}
+			
+			.div {
+			
+			 width:32px;
+			 height:32px; 
+			 float:left; 
+			 align:"left";
+			 padding:2px;
+			  
+			
+			}
+			
+			
+			
+			
+			root {
+			    display: block;
+			}
+			body
+			{
+			  
+			  text-align: center;
+			  font-style:italic;
+			  margin: 0;
+			  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+			  font-size: 15px;
+			  line-height: 20px;
+			  color: #333333;
+			  background-color:ligthblue;
+			h2
+			{
+			    font-size: 18px;
+			    color: blue;
+			    font-family:inherit;
+			}
+			.hata_mesaj
+			{
+			    font-size: 8px;
+			    font-family: cursive;
+			    font-weight: bold;
+			    color: orangered;
+			    padding: 12px;
+			}
+			
+			.input_text{
+				font-family:serif, Helvetica, sans-serif;
+				font-size:20px;
+				border:1px solid deepskyblue;
+			}
+			
+			.tablo{   
+				border-collapse:collapse;
+			}
+			
+			.tablo-basligi{
+				text-align:center;
+				background:none repeat scroll 0 0 skyblue;
+				border-bottom:2px solid cornflowerblue;
+				padding:15px;
+			}
+			
+			.tablo-tek-numarali-satir{
+				text-align:center;
+				background:none repeat scroll 0 0 azure;
+				border-top:red;
+			}
+			
+			.tablo-cift-numarali-satir{
+				text-align:center;
+				background:none repeat scroll 0 0 lemonchiffon;
+				border-top:red;
+			}
+			.checkbox{
+				
+				margin: 0;
+				padding: 0;
+				
+				
+				
+			}
+			.index{
+				text-align: center;
+				
+				
+}
